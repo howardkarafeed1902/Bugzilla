@@ -217,4 +217,4 @@ Bugzilla is offered as a complete free version with all features and updates inc
 Take your development projects to the next level with Bugzilla! Download now and experience the benefits of efficient code debugging.
 
 ---
-**Last updated:** 2026-10-24 10:30:13 UTC
+**Last updated:** 2026-10-24 14:19:23 UTC
